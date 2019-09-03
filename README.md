@@ -91,8 +91,6 @@ Given below the sample output
 
 ## Built With
 
-* [Requests](http://docs.python-requests.org/en/master/) - HTTP for Humans™
-* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - A library for pulling data out of HTML and XML files.
 * [Selenium](https://www.seleniumhq.org/) - It is for automating web applications for testing purposes, but is certainly not limited to just that.
 
 ## Authors
